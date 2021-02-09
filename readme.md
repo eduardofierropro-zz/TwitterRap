@@ -15,12 +15,21 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 * [CSS]
 * [SASS]
 
-## Enlaces 📖
-* [Twitch] (https://www.twitch.tv/eduardofierropro)
-* [Youtube] (https://www.youtube.com/eduardofierropro)
+## Vídeos relacionados en Youtube 🛠️
 
-## Autores ✒️
-* **Eduardo Fierro** - *Documentación y trabajo inicial* - [eduardofierropro](https://github.com/eduardofierropro)
+* [Youtube] (https://www.youtube.com/watch?v=NhSlsFV86Z8)
+
+## Desarrollado con 🛠️
+
+* [Visual Studio Code]
+
+## Autor ✒️
+**Eduardo Fierro** - *Documentación y trabajo inicial*
+* [Github] (https://github.com/eduardofierropro)
+* [Youtube] (https://youtube.com/EduardoFierroPro)
+* [Twitch] (https://twitch.tv/eduardofierropro)
+* [Instagram] (https://instagram.com/eduardofierro.pro)
+* [Twitter] (https://twitter.com/edfierropro)
 
 ## Licencia 📄
 GNU General Public License v3.0
