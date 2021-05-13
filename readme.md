@@ -10,18 +10,12 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
-## Construido con 🛠️
-* [HTML5]
-* [CSS]
-* [SASS]
+
 
 ## Vídeos relacionados en Youtube 🛠️
-
 * [Youtube](https://www.youtube.com/watch?v=NhSlsFV86Z8)
 
-## Desarrollado con 🛠️
 
-* [Visual Studio Code]
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
