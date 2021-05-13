@@ -17,7 +17,7 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 
 ## Vídeos relacionados en Youtube 🛠️
 
-* [Youtube] (https://www.youtube.com/watch?v=NhSlsFV86Z8)
+* [Youtube](https://www.youtube.com/watch?v=NhSlsFV86Z8)
 
 ## Desarrollado con 🛠️
 
@@ -25,11 +25,12 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
-* [Github] (https://github.com/eduardofierropro)
-* [Youtube] (https://youtube.com/EduardoFierroPro)
-* [Twitch] (https://twitch.tv/eduardofierropro)
-* [Instagram] (https://instagram.com/eduardofierro.pro)
-* [Twitter] (https://twitter.com/edfierropro)
+* [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+* [Twitch](https://twitch.tv/eduardofierropro)
+* [TikTok](https://www.tiktok.com/@eduardofierro.pro?)
+* [Github](https://github.com/eduardofierropro)
+* [Instagram](https://instagram.com/eduardofierro.pro)
+* [Twitter](https://twitter.com/edfierropro)
 
 ## Licencia 📄
 GNU General Public License v3.0
