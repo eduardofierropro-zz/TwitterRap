@@ -13,7 +13,7 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 
 
 ## Vídeos relacionados en Youtube 🛠️
-* [Youtube](https://www.youtube.com/watch?v=NhSlsFV86Z8)
+* [https://www.youtube.com/watch?v=NhSlsFV86Z8](https://www.youtube.com/watch?v=NhSlsFV86Z8)
 
 
 
